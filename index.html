@@ -71,6 +71,23 @@
             remainingRevenue: 0,
         };
 
+            function bindNumericInput(id, bufferVar, stateSetter) {
+            const input = document.getElementById(id);
+    
+            input.oninput = (e) => {
+            if (/^\d*$/.test(e.target.value)) {
+                bufferVar.value = e.target.value;
+                stateSetter(e.target.value === "" ? 0 : parseInt(e.target.value));
+                render();
+                }
+                };
+            }
+
+            bindNumericInput("total-capital", 
+                { value: totalCapitalInput }, 
+                (v) => totalCapital = v
+            );
+
         function formatCurrency(value) {
             if (Math.abs(value) >= 10000000) {
                 return 'Rs ' + new Intl.NumberFormat('en-IN', { maximumFractionDigits: 2, minimumFractionDigits: 2 }).format(value / 10000000) + ' Cr';
