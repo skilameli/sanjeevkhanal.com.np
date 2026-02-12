@@ -115,15 +115,20 @@
                 </div>`;
                 document.getElementById('enter-button').addEventListener('click', () => {
                     state.view = 'engine';
-                    const coverDiv = root.firstChild;
-                    coverDiv.style.opacity = 0;
+                    const coverDiv = root.firstElementChild;
+                    if (coverDiv) {
+                        coverDiv.style.opacity = 0;
+                    }
                     setTimeout(() => render(), 700);
                 });
             } else {
                 root.innerHTML = `<div id="engine-view" class="transition-opacity duration-700 ease-out opacity-0"></div>`;
                 renderEngineView();
                 setTimeout(() => {
-                    document.getElementById('engine-view').style.opacity = 1;
+                    const engineView = document.getElementById('engine-view');
+                    if (engineView) {
+                        engineView.style.opacity = 1;
+                    }
                 }, 10);
             }
         }
@@ -690,3 +695,5 @@
     </script>
 </body>
 </html>
+
+    
