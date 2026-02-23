@@ -1,5 +1,6 @@
 # Sanjeev Khanal
-##### System Designer | Co-Founder at 1pana | Semi-qualified Chartered Accountant
+##### System Designer | Co-Founder at 1pana
+##### Semi-qualified Chartered Accountant
 
 <p align="left">
   <img src="sanjeev.jpg" width="160" style="border-radius: 20px; border: 2px solid #30363d;">
