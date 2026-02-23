@@ -1,56 +1,61 @@
-# Hi, I'm Sanjeev Khanal 👋
+# Sanjeev Khanal 👋
+### System Designer | Co-Founder at 1pana | Semi-qualified CA
 
-<p align="center">
-  <img src="sanjeev.jpg" width="180" style="border-radius: 50%; border: 2px solid #2ea44f;">
-  <br>
-  <em>"Financial precision with ecological intelligence."</em>
+<p align="left">
+  <img src="sanjeev.jpg" width="150" style="border-radius: 10px; border: 1px solid #30363d;">
 </p>
 
-### 🛠️ System Designer | Semi-qualified Chartered Accountant
-I specialize in **systemic redesign**, bridging the gap between traditional fiscal accountability and complex ecological modeling. My work is dedicated to building resilient, circular, and transparent infrastructure by analyzing resource flows—be they currency, data, or biological nutrients.
+> **Vision:** Bridging the gap between traditional fiscal accountability and complex ecological modeling. I build resilient, circular, and transparent infrastructure.
 
 ---
 
-### 🌐 Expertise Layers
-- **Financial Architecture:** High-Fidelity Financials, Ledger Traceability, Audit Innovation.
-- **Logistics & Data:** Agent-Based Simulation, Logistics Modeling, Density Analytics, Capital Velocity.
-- **Ecological Systems:** Circular Economics, Regenerative Systems, Bio-Integrated Design, Aquaponics & Mycology, Waste-to-Energy.
+### 💼 Professional Timeline (2020 – 2026)
+
+**🚀 Co-Founder | [1pana](https://sanjeevkhanal.com.np/)** *July 2023 – Present (Lalitpur, Nepal)* * Leading the development of a smart accounting ecosystem for SMEs.  
+* Integrating source documentation directly into digital ledgers for absolute audit trails.  
+* Focusing on capital velocity and financial transparency for local economies.
+
+**🌿 Founder / Lead | [Sadhana Lifestyles](https://sanjeevkhanal.com.np/)** *2025 (3-Month Intensive)* * Applying systemic design to lifestyle and ecological resource management.  
+* Exploring bio-integrated production and regenerative resource loops.
+
+**🍎 Systems Architect | [Food-Ecosystem (FEH Nepal)](https://sanjeevkhanal.com.np/)** *2025 (1-Month Sprint)* * Designed financial and operational projections for a Circular Food + Energy Hub.  
+* Modeled resource flows between aquaponics, mycology, and waste-to-energy systems.
+
+**🧠 Researcher | [The Awareness Framework](https://sanjeevkhanal.com.np/)** *2024 – 2025 (7-Month Deep Dive)* * Developed a recursive system framework based on **Observation, Memory, and Pattern (OMP)**.  
+* Authored research on the intersection of consciousness and systemic reality.
+
+**📑 Article Trainee | M. Khanal & Co., Chartered Accountants** *February 2020 – February 2023* * Conducted statutory and internal audits for diverse corporate entities.  
+* Mastered high-fidelity financials, ledger traceability, and fiscal accountability.
 
 ---
 
-### 🚀 Active Systems & Simulations
+### 🛠️ Core Competencies
 
-#### [1PANA](https://sanjeevkhanal.com.np/) | Smart Accounting System
-**Status:** Operational Phase  
-An innovative accounting ecosystem for SMEs linking source documentation directly to digital ledger entries to ensure absolute, immutable audit trails.
-
-#### [DDG Nepal](https://sanjeevkhanal.com.np/) | Drone Delivery Grid
-**Status:** Simulation Phase  
-Modeling urban logistics density to analyze how time-compression in delivery cycles accelerates the velocity of capital for local economies.
-
-#### [FEH Nepal](https://sanjeevkhanal.com.np/) | Circular Food + Energy Hub
-**Status:** Financial Projections Complete  
-A bio-integrated production model combining aquaponics, mycology, and renewable energy into a single regenerative resource loop.
+| **Financial Precision** | **Ecological Intelligence** | **Systemic Modeling** |
+| :--- | :--- | :--- |
+| Audit Innovation | Circular Economics | Agent-Based Simulation |
+| Ledger Traceability | Bio-Integrated Design | Logistics Modeling |
+| SME Accounting | Mycology & Aquaponics | Density Analytics |
 
 ---
 
-### 🧠 The Awareness Framework
-My approach is guided by a recursive system framework derived from my research into the nature of consciousness. It operates on the **OMP (Observation, Memory, and Pattern)** triad:
+### 🚀 Key Projects
 
-* **Perception:** High-level conceptual browsing and data intake.
-* **Models:** Building systemic representations of reality.
-* **Decisions:** Closing the loop through feedback and systemic action.
+* **[PANA](https://sanjeevkhanal.com.np/):** Operational phase smart accounting for SMEs.
+* **[DDG Nepal](https://sanjeevkhanal.com.np/):** Simulation phase drone delivery grid modeling for urban density.
+* **[Awareness Framework](https://sanjeevkhanal.com.np/):** Theoretical framework for recursive systems.
 
 ---
 
-### 📫 Connect with Me
-I am open to collaborations regarding **system design, auditing innovation, and ecological resource management.**
+### 📫 Connect & Collaborate
 
-* 🌍 [Portfolio Website](https://sanjeevkhanal.com.np)
-* 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-* 📧 [mail@sanjeevkhanal.com.np](mailto:mail@sanjeevkhanal.com.np)
+* 🌍 **Portfolio:** [sanjeevkhanal.com.np](https://sanjeevkhanal.com.np)
+* 💼 **LinkedIn:** [linkedin.com/in/sanjeev-khanal](https://linkedin.com/in/sanjeev-khanal)
+* 📧 **Email:** [mail@sanjeevkhanal.com.np](mailto:mail@sanjeevkhanal.com.np)
+* 📱 **Phone:** [+977-9705005200](tel:+9779705005200)
+* 💬 **Inquiry:** Open to collaborations in system design, audit innovation, and resource management.
 
 ---
 <p align="center">
-  <sub>Built with the <strong>Observation, Memory, and Pattern</strong> triad.</sub>
+  <sub>"Financial precision with ecological intelligence." | February 2026 Update</sub>
 </p>
