@@ -1,4 +1,6 @@
 # Hi, I'm Sanjeev Khanal 👋
+![Sanjeev Khanal](photo.jpg)
+
 
 ### System Designer | Semi-qualified Chartered Accountant | Ecological Modeler
 
