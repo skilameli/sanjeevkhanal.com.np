@@ -20,7 +20,7 @@ I specialize in **systemic redesign**, bridging the gap between traditional fisc
 
 ### 🚀 Active Systems & Simulations
 
-#### [PANA](https://sanjeevkhanal.com.np/) | Smart Accounting System
+#### [1PANA](https://sanjeevkhanal.com.np/) | Smart Accounting System
 **Status:** Operational Phase  
 An innovative accounting ecosystem for SMEs linking source documentation directly to digital ledger entries to ensure absolute, immutable audit trails.
 
