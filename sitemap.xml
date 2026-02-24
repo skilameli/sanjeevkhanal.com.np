@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Main Homepage -->
+  <!-- Main Identity: Sanjeev Khanal Portfolio -->
   <url>
     <loc>https://sanjeevkhanal.com.np/</loc>
     <lastmod>2026-02-24</lastmod>
@@ -9,7 +9,15 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Professional Experience Section -->
+  <!-- Cross-Reference: 1pana Development & Architecture -->
+  <url>
+    <loc>https://1pana.com</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Professional Experience (Audit & Consulting) -->
   <url>
     <loc>https://sanjeevkhanal.com.np/#experience</loc>
     <lastmod>2026-02-24</lastmod>
@@ -17,15 +25,15 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Education & Publication (Research) -->
+  <!-- Systems Research: The Awareness Framework -->
   <url>
     <loc>https://sanjeevkhanal.com.np/#education-publication</loc>
     <lastmod>2026-02-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
 
-  <!-- Ecosystem & Initiatives Section -->
+  <!-- Ecosystem & Strategic Initiatives -->
   <url>
     <loc>https://sanjeevkhanal.com.np/#ecosystem</loc>
     <lastmod>2026-02-24</lastmod>
